@@ -1,6 +1,6 @@
 # DX799S-O1-Data-Science-Capstone-Milestone-2-Notebooks
 
-This repository contains the notebook evidence and final report for Milestone Two of the DX799S-O1 Data Science Capstone. The project analyzes the synthetic **Marketing and Product Performance** dataset (10,000 rows; 17 columns) to evaluate whether campaign, product, customer, and promotional attributes support reliable revenue prediction or meaningful marketing-performance profiles.
+This repository contains the weekly notebook evidences for Milestone Two of the DX799S-O1 Data Science Capstone. The project analyzes the synthetic **Marketing and Product Performance** dataset (10,000 rows; 17 columns) to evaluate whether campaign, product, customer, and promotional attributes support reliable revenue prediction or meaningful marketing-performance profiles.
 
 The central finding is intentionally conservative: across supervised and unsupervised methods, the available synthetic attributes provide limited evidence for reliable revenue prediction or actionable natural segmentation. The notebooks document the analysis, diagnostics, safeguards, and evidence behind that conclusion.
 
