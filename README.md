@@ -24,7 +24,6 @@ The central finding is intentionally conservative: across supervised and unsuper
 - All notebooks use a fixed random state (`42`) for reproducible sampling and model splits.
 - Identifier columns are excluded from modeling because they are unique record labels and would encourage memorization.
 - Revenue is excluded from clustering inputs and used only for descriptive post-clustering comparisons.
-- Figures were rendered at 300 DPI for legibility in the final report.
 
 ## Sources used for methods
 
